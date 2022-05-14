@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coin
+  - Box
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2416509027
+    locked: 0
+  - name: Ground
+    uniqueID: 1531267383
+    locked: 0
+  - name: Basic
+    uniqueID: 4032739119
     locked: 0
